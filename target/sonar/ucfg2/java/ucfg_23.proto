@@ -1,0 +1,39 @@
+
+lcom.management.OrderMS.controller.OrderController#removeProductsorder(Ljava/lang/Integer;)Ljava/lang/String;~
+tC:/Users/nikhi/OneDrive/Documents/order/orderMS/src/main/java/com/management/OrderMS/controller/OrderController.javaA A(""1*Ø
+1~
+tC:/Users/nikhi/OneDrive/Documents/order/orderMS/src/main/java/com/management/OrderMS/controller/OrderController.javaB B(ä
+á
+~
+tC:/Users/nikhi/OneDrive/Documents/order/orderMS/src/main/java/com/management/OrderMS/controller/OrderController.javaB B(
+%0org.slf4j.Logger"__id*A*?3
+1com.management.OrderMS.controller.OrderController"
+loggerÞÛ
+~
+tC:/Users/nikhi/OneDrive/Documents/order/orderMS/src/main/java/com/management/OrderMS/controller/OrderController.javaB B(?
+
+%1void"<org.slf4j.Logger#info(Ljava/lang/String;Ljava/lang/Object;)V*
+
+%0org.slf4j.Logger*)'
+%Request for order removal by buyer {}*
+
+orderidjava.lang.Integer2*info(Ljava/lang/String;Ljava/lang/Object;)…
+‚
+~
+tC:/Users/nikhi/OneDrive/Documents/order/orderMS/src/main/java/com/management/OrderMS/controller/OrderController.javaC C(1
+%2+com.management.OrderMS.service.OrderService"__id*G*E3
+1com.management.OrderMS.controller.OrderController"
+orderServiceåâ
+~
+tC:/Users/nikhi/OneDrive/Documents/order/orderMS/src/main/java/com/management/OrderMS/controller/OrderController.javaC C(+
+
+%3void"Ucom.management.OrderMS.service.OrderService#removeProductsorder(Ljava/lang/Integer;)V*3
+1
+%2+com.management.OrderMS.service.OrderService*
+
+orderidjava.lang.Integer2(removeProductsorder(Ljava/lang/Integer;)"š
+~
+tC:/Users/nikhi/OneDrive/Documents/order/orderMS/src/main/java/com/management/OrderMS/controller/OrderController.javaD D( 
+Deleted successfully:
+orderidjava.lang.IntegerB53
+1com.management.OrderMS.controller.OrderController

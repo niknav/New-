@@ -1,0 +1,7 @@
+organization=nik
+projectKey=niknav_New-
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8830
+dashboardUrl=https://sonarcloud.io/dashboard?id=niknav_New-
+ceTaskId=AXLQgUqLSHO1mxKbIIyY
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXLQgUqLSHO1mxKbIIyY

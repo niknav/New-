@@ -1,0 +1,105 @@
+
+ècom.management.OrderMS.dto.ProductsOrderDTO#valueof(Lcom/management/OrderMS/entity/ProductsOrder;)Lcom/management/OrderMS/dto/ProductsOrderDTO;x
+nC:/Users/nikhi/OneDrive/Documents/order/orderMS/src/main/java/com/management/OrderMS/dto/ProductsOrderDTO.java3  3('"1*Ü#
+1x
+nC:/Users/nikhi/OneDrive/Documents/order/orderMS/src/main/java/com/management/OrderMS/dto/ProductsOrderDTO.java4$ 4(:›⁄
+x
+nC:/Users/nikhi/OneDrive/Documents/order/orderMS/src/main/java/com/management/OrderMS/dto/ProductsOrderDTO.java4( 4(81
+%0+com.management.OrderMS.dto.ProductsOrderDTO"+com.management.OrderMS.dto.ProductsOrderDTOÔ
+Ï
+x
+nC:/Users/nikhi/OneDrive/Documents/order/orderMS/src/main/java/com/management/OrderMS/dto/ProductsOrderDTO.java4$ 4(:
+%1"5com.management.OrderMS.dto.ProductsOrderDTO#<init>()V*3
+1
+%0+com.management.OrderMS.dto.ProductsOrderDTO˘
+ˆ
+x
+nC:/Users/nikhi/OneDrive/Documents/order/orderMS/src/main/java/com/management/OrderMS/dto/ProductsOrderDTO.java4 4(;?
+productsOrderDTO+com.management.OrderMS.dto.ProductsOrderDTO"__id*3
+1
+%0+com.management.OrderMS.dto.ProductsOrderDTOàÖ
+x
+nC:/Users/nikhi/OneDrive/Documents/order/orderMS/src/main/java/com/management/OrderMS/dto/ProductsOrderDTO.java5 5(/	
+%2int"9com.management.OrderMS.entity.ProductsOrder#getOrderId()I*5
+3
+prod+com.management.OrderMS.entity.ProductsOrder2getOrderId()§°
+x
+nC:/Users/nikhi/OneDrive/Documents/order/orderMS/src/main/java/com/management/OrderMS/dto/ProductsOrderDTO.java5 5(0
+
+%3void":com.management.OrderMS.dto.ProductsOrderDTO#setOrderId(I)V*A
+?
+productsOrderDTO+com.management.OrderMS.dto.ProductsOrderDTO*
+	
+%2int2setOrderId(I)ÜÉ
+x
+nC:/Users/nikhi/OneDrive/Documents/order/orderMS/src/main/java/com/management/OrderMS/dto/ProductsOrderDTO.java6 6(-	
+%4int"8com.management.OrderMS.entity.ProductsOrder#getProdId()I*5
+3
+prod+com.management.OrderMS.entity.ProductsOrder2getProdId()¢ü
+x
+nC:/Users/nikhi/OneDrive/Documents/order/orderMS/src/main/java/com/management/OrderMS/dto/ProductsOrderDTO.java6 6(.
+
+%5void"9com.management.OrderMS.dto.ProductsOrderDTO#setProdId(I)V*A
+?
+productsOrderDTO+com.management.OrderMS.dto.ProductsOrderDTO*
+	
+%4int2setProdId(I)ÜÉ
+x
+nC:/Users/nikhi/OneDrive/Documents/order/orderMS/src/main/java/com/management/OrderMS/dto/ProductsOrderDTO.java7 7(+
+%6float"7com.management.OrderMS.entity.ProductsOrder#getPrice()F*5
+3
+prod+com.management.OrderMS.entity.ProductsOrder2
+getPrice()¢ü
+x
+nC:/Users/nikhi/OneDrive/Documents/order/orderMS/src/main/java/com/management/OrderMS/dto/ProductsOrderDTO.java7 7(,
+
+%7void"8com.management.OrderMS.dto.ProductsOrderDTO#setPrice(F)V*A
+?
+productsOrderDTO+com.management.OrderMS.dto.ProductsOrderDTO*
+
+%6float2setPrice(F)äá
+x
+nC:/Users/nikhi/OneDrive/Documents/order/orderMS/src/main/java/com/management/OrderMS/dto/ProductsOrderDTO.java8 8(1	
+%8int":com.management.OrderMS.entity.ProductsOrder#getQuantity()I*5
+3
+prod+com.management.OrderMS.entity.ProductsOrder2getQuantity()¶£
+x
+nC:/Users/nikhi/OneDrive/Documents/order/orderMS/src/main/java/com/management/OrderMS/dto/ProductsOrderDTO.java8 8(2
+
+%9void";com.management.OrderMS.dto.ProductsOrderDTO#setQuantity(I)V*A
+?
+productsOrderDTO+com.management.OrderMS.dto.ProductsOrderDTO*
+	
+%8int2setQuantity(I)ãà
+x
+nC:/Users/nikhi/OneDrive/Documents/order/orderMS/src/main/java/com/management/OrderMS/dto/ProductsOrderDTO.java9 9(1
+
+%10int":com.management.OrderMS.entity.ProductsOrder#getSellerId()I*5
+3
+prod+com.management.OrderMS.entity.ProductsOrder2getSellerId()®•
+x
+nC:/Users/nikhi/OneDrive/Documents/order/orderMS/src/main/java/com/management/OrderMS/dto/ProductsOrderDTO.java9 9(2
+%11void";com.management.OrderMS.dto.ProductsOrderDTO#setSellerId(I)V*A
+?
+productsOrderDTO+com.management.OrderMS.dto.ProductsOrderDTO*
+
+
+%10int2setSellerId(I)•¢
+x
+nC:/Users/nikhi/OneDrive/Documents/order/orderMS/src/main/java/com/management/OrderMS/dto/ProductsOrderDTO.java: :(-
+%12java.lang.String"Icom.management.OrderMS.entity.ProductsOrder#getStatus()Ljava/lang/String;*5
+3
+prod+com.management.OrderMS.entity.ProductsOrder2getStatus()”–
+x
+nC:/Users/nikhi/OneDrive/Documents/order/orderMS/src/main/java/com/management/OrderMS/dto/ProductsOrderDTO.java: :(.
+%13void"Jcom.management.OrderMS.dto.ProductsOrderDTO#setStatus(Ljava/lang/String;)V*A
+?
+productsOrderDTO+com.management.OrderMS.dto.ProductsOrderDTO*
+
+%12java.lang.String2setStatus(Ljava/lang/String;)"Ω
+x
+nC:/Users/nikhi/OneDrive/Documents/order/orderMS/src/main/java/com/management/OrderMS/dto/ProductsOrderDTO.java; ;(A
+?
+productsOrderDTO+com.management.OrderMS.dto.ProductsOrderDTO:3
+prod+com.management.OrderMS.entity.ProductsOrderB/"-
++com.management.OrderMS.dto.ProductsOrderDTO

@@ -1,0 +1,27 @@
+
+Mcom.management.OrderMS.controller.OrderController#getorders()Ljava/util/List;~
+tC:/Users/nikhi/OneDrive/Documents/order/orderMS/src/main/java/com/management/OrderMS/controller/OrderController.java ( "1*“
+1~
+tC:/Users/nikhi/OneDrive/Documents/order/orderMS/src/main/java/com/management/OrderMS/controller/OrderController.java (&…
+‚
+~
+tC:/Users/nikhi/OneDrive/Documents/order/orderMS/src/main/java/com/management/OrderMS/controller/OrderController.java (&1
+%0+com.management.OrderMS.service.OrderService"__id*G*E3
+1com.management.OrderMS.controller.OrderController"
+orderService¤¡
+~
+tC:/Users/nikhi/OneDrive/Documents/order/orderMS/src/main/java/com/management/OrderMS/controller/OrderController.java (2
+%1java.util.List"Gcom.management.OrderMS.service.OrderService#getorders()Ljava/util/List;*3
+1
+%0+com.management.OrderMS.service.OrderService2getorders()½
+º
+~
+tC:/Users/nikhi/OneDrive/Documents/order/orderMS/src/main/java/com/management/OrderMS/controller/OrderController.java (3
+orderDtojava.util.List"__id*
+
+%1java.util.List"ž
+~
+tC:/Users/nikhi/OneDrive/Documents/order/orderMS/src/main/java/com/management/OrderMS/controller/OrderController.java   (
+
+orderDtojava.util.ListB53
+1com.management.OrderMS.controller.OrderController
